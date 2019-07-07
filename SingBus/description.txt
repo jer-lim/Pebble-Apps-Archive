@@ -1,0 +1,13 @@
+Basic Usage:
+- Selecting Nearby Bus Stops and then a specific bus stop will display all the buses at that stop. Use up/down to scroll the list.
+- Long press the select button in the bus stop selection menu to save the bus stop as a Favourite. A vibration signals that the bus stop has been saved.
+- In the Favourites menu, long pressing the select button removes the bus stop as a Favourite.
+- The bus timings update automatically every minute.
+
+Bus Load Indication:
+Green - Seating space available
+Orange - No seats available
+Red / Black (OG Pebble) - Bus has little standing space
+
+About The App:
+Developed by Jeremy Lim (http://jerl.im) in Nov 2015. Visit the Pebble Store page for updates.
